@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/enxam_3.io/static/css/main.1c4127c2.css",
-    "main.js": "/enxam_3.io/static/js/main.bc33d4d3.js",
-    "static/media/default_bg.png": "/enxam_3.io/static/media/default_bg.96cdbdee3d14f9824063.png",
-    "static/media/footer-bg.jpg": "/enxam_3.io/static/media/footer-bg.7b1562b2b943d2f5056c.jpg",
-    "static/media/hbo-max.svg": "/enxam_3.io/static/media/hbo-max.1c74d6a183f5681ae1f73c85cfb4bd7f.svg",
-    "index.html": "/enxam_3.io/index.html",
-    "static/media/movie-icon.svg": "/enxam_3.io/static/media/movie-icon.17ca78640f973a983c5cd4ffec8a19d2.svg",
-    "static/media/series-icon.svg": "/enxam_3.io/static/media/series-icon.0389920894c4b3087f95d5eeb55ad3f3.svg",
-    "static/media/home-icon.svg": "/enxam_3.io/static/media/home-icon.e4b30aaa9f5e9951fbd071b73b129cb4.svg",
-    "main.1c4127c2.css.map": "/enxam_3.io/static/css/main.1c4127c2.css.map",
-    "main.bc33d4d3.js.map": "/enxam_3.io/static/js/main.bc33d4d3.js.map"
+    "main.css": "/enxam_3/static/css/main.68064895.css",
+    "main.js": "/enxam_3/static/js/main.29c23307.js",
+    "static/media/default_bg.png": "/enxam_3/static/media/default_bg.96cdbdee3d14f9824063.png",
+    "static/media/footer-bg.jpg": "/enxam_3/static/media/footer-bg.7b1562b2b943d2f5056c.jpg",
+    "static/media/hbo-max.svg": "/enxam_3/static/media/hbo-max.1c74d6a183f5681ae1f73c85cfb4bd7f.svg",
+    "index.html": "/enxam_3/index.html",
+    "static/media/movie-icon.svg": "/enxam_3/static/media/movie-icon.17ca78640f973a983c5cd4ffec8a19d2.svg",
+    "static/media/series-icon.svg": "/enxam_3/static/media/series-icon.0389920894c4b3087f95d5eeb55ad3f3.svg",
+    "static/media/home-icon.svg": "/enxam_3/static/media/home-icon.e4b30aaa9f5e9951fbd071b73b129cb4.svg",
+    "main.68064895.css.map": "/enxam_3/static/css/main.68064895.css.map",
+    "main.29c23307.js.map": "/enxam_3/static/js/main.29c23307.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c4127c2.css",
-    "static/js/main.bc33d4d3.js"
+    "static/css/main.68064895.css",
+    "static/js/main.29c23307.js"
   ]
 }
