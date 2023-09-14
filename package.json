@@ -1,5 +1,5 @@
 {
-  "homepage": "https://cinemy-movie-app.netlify.app",
+  "homepage": "https://AlexandrMidved-2023.github.io/enxam_3.io",
   "name": "movie-app",
   "version": "0.1.0",
   "private": true,
@@ -55,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
